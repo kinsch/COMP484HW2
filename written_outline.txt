@@ -1,0 +1,16 @@
+Introduction to HTML
+	COMP 484
+		Structuring Pages
+			Comveying meaning through structure
+			Sectioning elements
+			Document outlines
+				W3C Warning
+			WAI-ARIA Roles
+			
+How are structural tags like aside, article, nav, and section being used?
+The aside tag is being used within the section tag to show that it is within
+a section of its own and tangentially related to its content. The article tag is
+being used to group the content that relates to each other. The nav is used to
+represent a section of the page that links to other pages also within the site.
+The section is used to group elements that would be explicitly listed in the
+document's outline.
